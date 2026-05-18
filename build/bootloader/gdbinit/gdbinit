@@ -1,0 +1,2 @@
+source /home/leena/drivers/esp32-suspension/build/bootloader/gdbinit/symbols
+source /home/leena/drivers/esp32-suspension/build/bootloader/gdbinit/connect
